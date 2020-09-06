@@ -4,6 +4,7 @@ In preparation for the 'Silver Tsunami', an HR analysis is required to determine
 
 ## Results
 * Total counts for retiring employees and eligible mentors are detailed in the below table:
+
 ![Mentorship_Availability](https://github.com/DenverSherman/Pewlett-Hackard-Analysis/blob/master/Analysis/mentorship_ratio.png)
 * Mentee/Mentor ratio are above 50 for each Technique Leader, Senior Engineer, and Senior Staff roles.
 * There are no currently eligible manager mentors
